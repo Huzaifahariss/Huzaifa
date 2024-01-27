@@ -1,3 +1,3 @@
 # Huzaifa
-It's my first code i have done.
+It's my first Repository i have done.
 Author-- HUZAIFA HARIS
